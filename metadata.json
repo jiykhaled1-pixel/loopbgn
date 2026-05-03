@@ -1,0 +1,8 @@
+{
+  "name": "loopbgn",
+  "description": "منصة عربية متكاملة لمحبي ألعاب الطاولة (Board Games). استكشف الفعاليات، ابحث عن أماكن للعب، وشارك في المجتمع.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
